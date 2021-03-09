@@ -25,8 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-![Image of Yaktocat](https://i.picsum.photos/id/442/400/200.jpg?hmac=_QaM3ay1IpbGhrS8av9YyRc8aOpiq9LgvFCoij4EPtY)
+
 ```
+![Example image](https://i.picsum.photos/id/442/400/200.jpg?hmac=_QaM3ay1IpbGhrS8av9YyRc8aOpiq9LgvFCoij4EPtY)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
